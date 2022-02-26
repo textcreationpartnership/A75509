@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apologie of the common souldiers of his Excellencie Sir Tho. Fairfaxes army. To him their noble and renowned generall, and to all the rest of the commission-officers. About which apologie the said armies commissioners were questioned, and imprisoned about two houres, by the House of Commons, the last of April, 1647. for delivering this apologie to their generall, and other of their chiefe commanders in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75509</idno>
+            <idno type="STC">Wing A3558</idno>
+            <idno type="STC">Thomason E385_18</idno>
+            <idno type="STC">ESTC R201467</idno>
+            <idno type="EEBO-CITATION">99861972</idno>
+            <idno type="PROQUEST">99861972</idno>
+            <idno type="VID">160211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apologie of the common souldiers of his Excellencie Sir Tho. Fairfaxes army. To him their noble and renowned generall, and to all the rest of the commission-officers. About which apologie the said armies commissioners were questioned, and imprisoned about two houres, by the House of Commons, the last of April, 1647. for delivering this apologie to their generall, and other of their chiefe commanders in London.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed May 3. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160211:1" rendition="simple:additions"/>
+            <p>THE APOLOGIE OF THE Common Souldiers Of his EXCELLENCIE Sir THO. FAIRFAXES ARMY.</p>
+            <p>To him their Noble and Renowned GENERALL, and to all the reſt of the Commiſſion-Officers.</p>
+            <p>About which Apologie the ſaid Armies Com<g ref="char:EOLhyphen"/>miſſioners were queſtioned, and impriſoned about two houres, by the Houſe of Commons, the laſt of <hi>April,</hi> 1647. for delivering this Apologie to their Generall, and other of their chiefe Comman<g ref="char:EOLhyphen"/>manders in <hi>London.</hi>
+            </p>
+            <p>London, Printed <hi>May</hi> 3. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:160211:2"/>
+            <head>The Apologie.</head>
+            <opener>
+               <salute>Right Noble and Faithfull Generall,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE who have for theſe two yeares paſt bin by your Ex<g ref="char:EOLhyphen"/>cellence conducted through many dangers, and by provi<g ref="char:EOLhyphen"/>dence hitherto protected, who have often ſeen the de<g ref="char:EOLhyphen"/>vouring Sword of a raging Enemy drawne forth againſt us, threatning deſtruction to us, and now ſee them van<g ref="char:EOLhyphen"/>quiſhed, and our ſelves ſee<g ref="char:EOLhyphen"/>mingly ſetled in peace and ſafety, are yet ſenſible of ano<g ref="char:EOLhyphen"/>ther more dangerous ſtorme hanging over our heads then ever the malice of our open enemies could have contained, or their fury cauſed to fall upon us; which un<g ref="char:EOLhyphen"/>leſſe diverted, ſtrike not onely at our liberty, but our lives alſo; To whom next to our Maker ſhall we flye for ſhelter, but to your Excellencie the Patron and Prote<g ref="char:EOLhyphen"/>ctor? From what ſecondary meanes ſhall we expect our Deliverance, but from that hand that hath ſo often been ingaged with us, and from that heart that hath as often being tender ever and carefull for our ſecurity? Can we ſuffer, and you not ſympathize? Can we be proclaimed enemies, and your Excellencie remaine ſecure? O deare Sir, let your wonted care for us be further demonſtrated, ceaſe not to ſpeak for us, who together with your ſelfe and in obedience to your Command, have adventu<g ref="char:EOLhyphen"/>red all that is deare to us for the Kingdomes ſafety.
+<pb n="3" facs="tcp:160211:2"/>Hath any thing been deſired by us that hath not beene promiſed, or then we have juſt cauſe to expect; if there hath, then let both it and the Authors thereof periſh? but can the Parliament upon miſ-information paſſe us for enemies, and we not therein percieve our enemies deſigne? Can we be ſatisfied with a Complement, when our fellow Souldiers ſuffer at every Aſſiize for acts meer<g ref="char:EOLhyphen"/>ly relating to the Warre? Is it not our lives we ſeeke? For where ſhall we be ſecured, when the meere envie of a malicious perſon is ſufficient to deſtroy us? Were our enemies in the Field with their Swords in their hands, we ſhould expect no more then a bare command, and a divine protection in our endeavours to free our ſelves, but 'tis another and a farre worſe enemy wee have to deale with, who like Foxes lurke in their Dennes, and cannot be dealt withall, though diſcovered, being pro<g ref="char:EOLhyphen"/>tected by thoſe who are intruſted with the Government of the Kingdome. It is the griefe of our hearts, that we cannot deſire our owne ſecurity without hazzard to your Excellencie, if but in ſpeaking in our own behalfe, when ſhall we ſee Juſtice diſperſed without partiality, or when ſhall the Weale of the publick be ſingly ſought after and endeavoured? Can this <hi>Iriſh</hi> Expedition be any thing elſe but a Deſigne to ruine and break this Army in pie<g ref="char:EOLhyphen"/>ces: Certainly reaſon tells us it can be nothing elſe; otherwiſe why are not thoſe who have been made in<g ref="char:EOLhyphen"/>ſtruments in our Countries deliverance againe thought worthy to be imployed? or why are ſuch who for their miſcarriages have been caſt out of the Army, thought fit to be intruſted, and thoſe Members of the Army in<g ref="char:EOLhyphen"/>gaged and preferred to that Service, when they are for moſt part ſuch, as had they conſidered their juſt deme<g ref="char:EOLhyphen"/>rits, might rather have expected an ejection then em<g ref="char:EOLhyphen"/>ployment: We are ſenſible, yea farre more ſenſible of the bleeding condition of <hi>Ireland,</hi> crying aloud for a Brotherly aſſiſtance, then thoſe forward undertakers in this preſent Deſigne manifeſt themſelves to be, and ſhall
+<pb n="4" facs="tcp:160211:3"/>willingly contribute the utmoſt of our abilities towards their reliefe, when we ſhall ſee this to be the onely thing ſought after and endeavoured; but wee are confident that your Excellencie cannot but perceive this plot is but a meere cloake for ſome who have lately raſted of Sove<g ref="char:EOLhyphen"/>raignty; and being lifted beyond their ordinary Spheare of ſervants, ſeek to become Maſters, and degenerate in<g ref="char:EOLhyphen"/>to Tyrants; wee are earneſt therefore with your Ex<g ref="char:EOLhyphen"/>cellencie, to uſe the utmoſt endeavour, that before any other or future Propoſitions be ſent to us, your expect<g ref="char:EOLhyphen"/>ations may be ſatisfied, which if they are not, wee con<g ref="char:EOLhyphen"/>ceive our ſelves and our friends as bad as deſtroyed.</p>
+            <p>And ſhall your Excellencie, or any other faithfull ſer<g ref="char:EOLhyphen"/>vant to the State be appointed for the Service of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and accept of that imployment, we muſt of neceſſi<g ref="char:EOLhyphen"/>ty, contrary to our deſires, ſhew our ſelves averſe to that ſervice, untill our deſires be granted, the juſt Rights and Liberties of the Subjects vindicated and maintained.</p>
+            <p>Then as God and our owne conſciences beare us wit<g ref="char:EOLhyphen"/>neſſe, we ſhall teſtifie to the Kingdome the integrity of our hearts to the ſervice of <hi>Ireland,</hi> and our forward acti<g ref="char:EOLhyphen"/>ons in that imployment ſhall demonſtrate the ſincerity of our expreſſions. Once more we are earneſt with your Excellency for your aſſiſtance, without which we are like to be wholly ruined; and having obtained it, may be en<g ref="char:EOLhyphen"/>abled as in duty we are bound to expreſſe our ſelves your Excellencies and the Kingdomes moſt faithfull and obe<g ref="char:EOLhyphen"/>dient Servants.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Edward Saxby</hi> Commiſſioners for the Generalls Regiment.</item>
+                     <item>
+                        <hi>Tho. Moore</hi> Commiſſioners for the Generalls Regiment.</item>
+                     <item>
+                        <hi>Samuel Whiting</hi> Lieutenant Generalls Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Will. Allin.</hi> Lieutenant Generalls Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Anthony Nixon</hi> Commiſſary Generalls Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Tho. Shepheard</hi> Commiſſary Generalls Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>William Jones</hi> Colonell <hi>Fleetwoods</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>John Casby</hi> Colonell <hi>Fleetwoods</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <pb n="5" facs="tcp:160211:3"/>
+                     <item>
+                        <hi>Nich. Lockler</hi> Colonell <hi>Rich</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Joſeph Foſter</hi> Colonell <hi>Rich</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>H. Geathings</hi> Colonell <hi>Sheffields</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Edw. Starre</hi> Colonell <hi>Sheffields</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Tho. Kendole</hi> Colonell <hi>Whaley</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>John Thomas</hi> Colonell <hi>Whaley</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Elias Box</hi> Colonell <hi>Butler</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>John Willowby</hi> Colonell <hi>Butler</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+                  </list>
+               </signed>
+               <date>28. <hi>April.</hi> 1647.</date>
+            </closer>
+         </div>
+         <div type="text">
+            <head>A Second Apologie of all the private Souldiers in his Excellencies Sir <hi>Thomas Fairfax</hi> his Army, to <hi>their Commiſſion Officers.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>WEE your Souldiers, who have ſerved under your Commands, with all readineſſe, to free this our Native Land and Nation from all tyrannie and oppreſſions whatſoever; and that by vertue and power derived from this preſent Parliament, given not only to his Excellencie Sir <hi>Thomas Fairfax,</hi> our now preſent Generall, but likewiſe under all the late Generals his predeceſſors, under whom wee, even the whole Soul<g ref="char:EOLhyphen"/>dierie, have ſerved both the State and you faithfully and diligently: By which meanes God hath been pleaſed to Crowne us with Victorie, in diſperſing our common Ad<g ref="char:EOLhyphen"/>verſaries, ſo that wee hoped to put an end to all Tyrannie and Oppreſſions, ſo that Juſtice and Equitie, according to the Law of this Land, ſhould have been done to the Peo<g ref="char:EOLhyphen"/>ple, and that the meaneſt ſubject ſhould fully enjoy his right, libertie, and proprieties in all things; which the Par<g ref="char:EOLhyphen"/>liament have made knowne to all the world in divers of their Declarations, to which they have ſo often bound themſelves to performe, by their Oathes, Vowes, Cove<g ref="char:EOLhyphen"/>nants,
+<pb n="6" facs="tcp:160211:4"/>and Proteſtations: Upon this ground of hope, wee have gone through all difficulties and dangers, that wee might purchaſe to the people of this Land, with our ſelves, a plentifull Crop and Harveſt of Libertie and Peace; but in ſtead of it, to the great griefe &amp; ſadning of our hearts, wee ſee that Oppreſſion is as great as ever, if not greater, yea, and that upon the cordiall friends to the Parliament and us, and to the juſt Rights and Liberties of this Nati<g ref="char:EOLhyphen"/>on, that they with us are ſlighted, abuſed, beaten, and dragged to Jayles, yea, to the utter ruine of their eſtates, and loſſe of their lives; yea, the beſt and moſt candide intentions and actions of theirs and ours groſſely and foulely miſconſtrued, even to ſuch a height, as deſerving no leſſe then to be declared as troublers of, and enemies to the State and Kingdome; and ſuch as have and are now the enemies of the Parliament and Kingdome, are coun<g ref="char:EOLhyphen"/>tenanced and honoured, to be in places of greateſt truſt, and are made Judges of them and us, for our lives and eſtates; yea, and in the great affaires of the Kingdome, ſitting in the Houſe of Commons, though ſtill under Se<g ref="char:EOLhyphen"/>queſtration, they are made high Sheriffes, Majors, of ſe<g ref="char:EOLhyphen"/>verall Counties and Townes, Commiſſioners of <hi>Oyer</hi> and <hi>Terminer,</hi> as in <hi>Cumberland,</hi> and the Countie of <hi>Durham,</hi> &amp;c. From whence wee believe ſprings all our miſeries, and that ſo many of our fellow Souldiers, that have been disbanded, have been ſo rigorouſly dealt withall, as<note n="*" place="margin">
+                  <p>The high Sherife of Kent, a man that was in the firſt Re<g ref="char:EOLhyphen"/>bellion againſt the Parliament, and by his means laſt Aſſize indicted a Colonel for taking of Horſes.</p>
+                  <list>
+                     <item>Exeter 2</item>
+                     <item>At Northampton <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>Warwick 2</item>
+                     <item>Alisbury <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>And this Aſſize at Salisbury 9</item>
+                     <item>London co<g ref="char:cmbAbbrStroke">̄</g>demned <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                  </list>
+                  <p>All theſe wil be pro<g ref="char:EOLhyphen"/>ved, with many more inſtances.</p>
+               </note> im<g ref="char:EOLhyphen"/>priſoned, indicted, and hanged, for things done in time and place of Warre, and neceſſitie of the Parliaments ſer<g ref="char:EOLhyphen"/>vice required, in their low condition; and without which, they could not have ſafely ſat in the Houſe of Parliament with their heads on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the reaſon of all this wee judge is, becauſe our very enemies are made our Judges. Yea, ſuch is our condition, though wee be oppreſſed, wee may not cry: as it is too apparant, when of late wee did in a humble and petitionarie way ſeeke to make knowne our grievances to our Generall; ſuch was our offence, as that wee muſt preſently, without being heard, be declared
+<pb n="7" facs="tcp:160211:4"/>
+               <hi>Enemies to the State:</hi> though notwithſtanding, by theſe our enemies, even ſuch as have been Cavaliers in Armes, have promoted and framed divers Remonſtrances, Peti<g ref="char:EOLhyphen"/>tions, and Repreſentations, of dangerous conſequence, to the Parliament and Kingdome, and that againſt their moſt reall and cordiall friends; yet theſe have been ac<g ref="char:EOLhyphen"/>cepted, and great thanks returned them: which holds forth to us a cleare deſigne to enſlave all the honeſt party of this Kingdome, and in them wee and you alſo.</p>
+            <p>Therefore, brave Commanders, the Lord put a ſpirit of courage into your hearts, that you may ſtand faſt in your integritie, that you have manifeſted to us your Souldiers; and wee doe declare to you, that if any of you ſhall not, he ſhall be marked with a brand of infamie for ever, as a Traytor to his Countrey, and an Enemie to his Armie. Reade, and conſider; was there ever ſuch things done by a Parliament, to proclaime us <hi>Enemies to the State,</hi> as they have done about the late Petition? The Lords and they could quickly agree to this, though they will be very tedious when any thing is offered that is for the good of the Common-wealth; and to keepe the hire<g ref="char:EOLhyphen"/>lings<note n="*" place="margin">As that of 26 mo<g ref="char:EOLhyphen"/>neths, the Horſe are behind 13 moneths pay, and now to have but two months pay: judge Heaven, and free people; God judge of this great evill.</note> Wages, and not to give them that which they have ſo dearely bought with their blouds and lives, even his pay; and not only ſo, but to leave them to the mer<g ref="char:EOLhyphen"/>cileſſe malice of their wicked enemies?</p>
+            <p>Is it not better to dye like men, then to be enſlaved, and hanged like Dogs? which muſt and will be yours and our portion, if not now looked unto even before our disbanding: ſo you may plainely ſee by this, their malice is great, yea, againſt our moſt honoured Gene<g ref="char:EOLhyphen"/>rall; as that in the Lords Houſe they did more then whiſper, he was a <hi>Delinquent:</hi> If they doe ſo now, and that to him, what will they not doe, not onely to him, but to you, if a courſe be not taken for our and your ſecuritie, before wee be disbanded, wee leave to you to judge.</p>
+            <pb n="8" facs="tcp:160211:5"/>
+            <p>We have been quiet and peaceable in obeying all Or<g ref="char:EOLhyphen"/>ders and commands, yet now we have a juſt cauſe to tell you, if we be not relieved in theſe out grievances, we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be forced to that, which we pray God to divert, and keep your and our hearts upright: deſiring you to pre<g ref="char:EOLhyphen"/>ſent theſe things to the Generall, as our deſires.</p>
+            <list>
+               <item>1. <hi>That the honour of this Army may be vindicated, in every particular, eſpecially about the late Petition, and re<g ref="char:EOLhyphen"/>parations given, and juſtice done upon the fomenters.</hi>
+               </item>
+               <item>2. <hi>That an Act of indempnity may be made for all things done in time and place of Warre.</hi>
+               </item>
+               <item>3. <hi>That the wives and children of thoſe that have beene ſlaine in the ſervice, and maimed Souldiers, may be provi<g ref="char:EOLhyphen"/>ded for.</hi>
+               </item>
+               <item>4. <hi>Our Arreares under this Generall, to be paid us, our Arrears under other Generalls, and to be audited and ſtated, and ſecurity given for the payment.</hi>
+               </item>
+               <item>5. <hi>That we that have ſerved the Parliament freely, may not be preſſed out of the Kingdome.</hi>
+               </item>
+               <item>6. <hi>That the Liberty of the Subject may be no longer in<g ref="char:EOLhyphen"/>ſlaved, but that Juſtice and Judgement may be dealt to the meaneſt Subject of this Land, according to old Law.</hi>
+               </item>
+            </list>
+            <p>Now unleſſe all theſe our humble requeſts, be by you for us your Souldiers and your ſelves ſtood for to bee granted, it had better we had never been born, or at leaſt we had never beene in Armes, but that wee had by the Sword been cut off from the miſery we and you are like to undergoe: So we reſt, in hopes of your faithfulneſſe:</p>
+            <closer>
+               <signed>Your Souldiers.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
